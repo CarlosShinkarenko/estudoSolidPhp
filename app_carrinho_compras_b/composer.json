@@ -1,0 +1,16 @@
+{
+    "name": "meucomputador/app_carrinho_compras",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Carlos",
+            "email": "carlosshinkarenkojr@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\" : "src"
+        }
+    }
+}
