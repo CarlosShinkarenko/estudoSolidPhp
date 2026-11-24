@@ -1,0 +1,15 @@
+{
+    "name": "meucomputador/app_etl",
+    "authors": [
+        {
+            "name": "Carlos Shinkarenko",
+            "email": "carlosshinkarenkojr@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
